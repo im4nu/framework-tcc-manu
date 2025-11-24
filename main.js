@@ -9,7 +9,7 @@ document.querySelector("#app").innerHTML = `
     <div class="info">Use o scroll do mouse ou arraste para navegar</div>
   </div>
   <div class="image-container">
-    <img src="/assets/framework.png" alt="Framework" class="framework-image" />
+    <img src="/framework.png" alt="Framework" class="framework-image" />
   </div>
 `;
 
